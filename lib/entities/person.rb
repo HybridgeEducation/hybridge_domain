@@ -1,4 +1,4 @@
-require 'hybridge_domain/entities/base_entity'
+require 'entities/base_entity'
 module HybridgeDomain
     module Entity
         class Person < BaseEntity
