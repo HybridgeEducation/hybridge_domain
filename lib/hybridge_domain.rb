@@ -1,3 +1,2 @@
 require 'active_record'
-require 'entities/person'
-require 'entities/student'
+Dir[File.join(__dir__, 'entities', '*.rb')].each { |file| require file }
