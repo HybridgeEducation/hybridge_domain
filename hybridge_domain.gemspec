@@ -1,6 +1,6 @@
 Gem::Specification.new do |s|
   s.name        = 'hybridge_domain'
-  s.version     = '0.0.5'
+  s.version     = '0.0.6'
   s.summary     = "Hybridge Education Domain models"
   s.description = "Active models"
   s.authors     = ["Gemathus"]
